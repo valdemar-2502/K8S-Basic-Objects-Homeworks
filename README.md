@@ -28,7 +28,7 @@
 3. Подключиться локально к Pod с помощью `kubectl port-forward` и вывести значение (curl или в браузере).
 
 ## Решение:
-**Манифест Pod:** [pod-hello-world.yaml]()
+**Манифест Pod:** [pod-hello-world.yaml](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/pod-hello-world.yaml)
 
 ---
 ![kubernetes](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/screenshots/01.png)
@@ -46,9 +46,9 @@
 4. Подключиться локально к Service с помощью `kubectl port-forward` и вывести значение (curl или в браузере).
 
 ## Решение:
-**Манифест Pod:** [pod-netology-web.yaml]()
+**Манифест Pod:** [pod-netology-web.yaml](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/pod-netology-web.yaml)
 
-**Манифест Service:** [service-netology-svc.yaml]()
+**Манифест Service:** [service-netology-svc.yaml](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/service-netology-svc.yaml)
 
 ![kubernetes](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/screenshots/04.png)
 ![kubernetes](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/screenshots/05.png)
