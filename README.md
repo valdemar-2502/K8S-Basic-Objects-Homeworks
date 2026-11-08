@@ -28,8 +28,13 @@
 3. Подключиться локально к Pod с помощью `kubectl port-forward` и вывести значение (curl или в браузере).
 
 ## Решение:
-**Манифест Pod:** [pod-hello-world.yaml](./pod-hello-world.yaml)
+**Манифест Pod:** [pod-hello-world.yaml]()
 
+---
+![kubernetes](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/screenshots/01.png)
+![kubernetes](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/screenshots/02.png)
+![kubernetes](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/screenshots/03.png)
+![kubernetes](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/screenshots/09.png)
 
 ------
 
@@ -39,6 +44,16 @@
 2. Использовать image — gcr.io/kubernetes-e2e-test-images/echoserver:2.2.
 3. Создать Service с именем netology-svc и подключить к netology-web.
 4. Подключиться локально к Service с помощью `kubectl port-forward` и вывести значение (curl или в браузере).
+
+## Решение:
+**Манифест Pod:** [pod-netology-web.yaml]()
+
+**Манифест Service:** [service-netology-svc.yaml]()
+
+![kubernetes](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/screenshots/04.png)
+![kubernetes](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/screenshots/05.png)
+![kubernetes](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/screenshots/08.png)
+![kubernetes](https://github.com/valdemar-2502/K8S-Basic-Objects-Homeworks/blob/main/screenshots/10.png)
 
 ------
 
